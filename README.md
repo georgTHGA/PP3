@@ -111,6 +111,7 @@ For more detailed information on SVG structure and elements, you can refer to th
 
 **Install vim on your local machine and open a new file, called `example.svg`. Write the SVG-code to include a straight line, a circle and a rectangle. When done, use your browser to open the file.**
 
+
 <details>
     <summary>Your SVG Code</summary>
     <code>
@@ -130,6 +131,7 @@ viewBox="-400 -300 800 600">
 </svg>
     </code>
 </details>
+
 
 ### Task 2: Markdown
 You have already discovered _markdown_ in these `README.md` files. 
