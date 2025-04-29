@@ -114,7 +114,20 @@ For more detailed information on SVG structure and elements, you can refer to th
 <details>
     <summary>Your SVG Code</summary>
     <code>
-    ......
+    <?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+version="1.1"
+width="800mm" height="600mm"
+viewBox="-400 -300 800 600">
+<title>Georgs SVG</title>
+<desc>Praktikum PP3 Georg.</desc>
+<rect x="-200" y="-200" width="100" height="50" fill="blue" />
+
+
+<line x1="-150" y1="0" x2="150" y2="0" stroke="black" stroke-width="2"/>
+<circle cx="50" cy="150" r="100" fill="green"/>
+
+</svg>
     </code>
 </details>
 
